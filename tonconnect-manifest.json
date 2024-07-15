@@ -1,1 +1,5 @@
-{  "name": "Grishmans Kombat",  "description": "Grishmans_kombat description",  "url": "https://Angels120.github.io/clicker_manifest",  "icons": [    {      "url": "https://Angels120.github.io/clicker_manifest/assets/icon.png",      "type": "image/png",      "sizes": "256x256"    }  ]}
+{
+    "url" : "https://clicker-game-vert.vercel.app",
+    "name" : "Grishmans Kombat",
+    "iconUrl" : "https://Angels120.github.io/clicker_manifest/assets/icon.png"
+}
