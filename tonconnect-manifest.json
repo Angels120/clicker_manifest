@@ -1,5 +1,21 @@
 {
-    "url" : "https://clicker-game-vert.vercel.app",
-    "name" : "Grishmans Kombat",
-    "iconUrl" : "https://Angels120.github.io/clicker_manifest/assets/icon.png"
-}
+    "short_name": "Grishmans Kombat",
+    "name": "Grishmans Kombat Game",
+    "icons": [
+      {
+        "src": "https://Angels120.github.io/clicker_manifest/assets/icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://Angels120.github.io/clicker_manifest/assets/icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "https://clicker-game-vert.vercel.app",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
+  
